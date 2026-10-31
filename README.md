@@ -21,13 +21,14 @@ Why are employees leaving, and where should HR focus first?
 - Job Role table with average job satisfaction and headcount
 
 ## KEY NUMBERS
-Measure                         Value 
-Total employees                 1,470 
-Employees who left              237 
-Attrition rate                  16.1% 
-Average monthly income          6,503 
-Average daily rate              802.49 
-Average job satisfaction        2.73 
+| Measure | Value |
+|---|---|
+| Total employees | 1,470 |
+| Employees who left | 237 |
+| Attrition rate | 16.1% |
+| Average monthly income | 6,503 |
+| Average daily rate | 802.49 |
+| Average job satisfaction | 2.73 |
 
 ## MY FINDINGS
 - Sales Representatives have the highest attrition at 39.8% (33 of 83 left). Research Directors have the lowest at 2.5%.
